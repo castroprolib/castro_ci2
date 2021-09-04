@@ -1,25 +1,26 @@
-# jcastro_ci2
+# JCastro CI2
+_Simple Project in CI2_
 
-_Crud con jquery ajax_
+## Starting 🚀
 
+_These instructions will allow you to get a copy of the project running on your local machine for development and testing purposes._
 
-### Pre-requisitos 📋
+### Pre-requirements 📋
 
-_Server apache, php 5.1.6 >=, mysql_
+_Server apache, php 5.6 >=, mysql_
 
+## Technologies 🛠️
 
-## Construido con 🛠️
+* [CodeIgniter v2.2.6](https://codeigniter.com/userguide2/index.html)
 
-* [CodeIgniter 2.2.6](https://codeigniter.com/download) - El framework web usado
-* [MySQL 5.7.28](https://www.mysql.com/downloads/) - La base de datos usada
-* [Bootstrap 4.5.0](https://getbootstrap.com/docs/4.5/getting-started/download/) - El framework web usado
-* [Jquery 3.5.1](https://jquery.com/download/) - El framework web usado
+## Author ✒️
 
+* **Jonathan Castro** - *Web Developer* - [jondlibri](https://github.com/jondlibri)
 
-## Autor ✒️
+## Contact :mailbox:
 
-* **Jonathan Castro** - *Desarrollo Fullstack*
+_jonathancastro@opengiscrm.com_
 
+## Donations 🎁
 
-
-
+* [Paypal](https://paypal.me/joncastroweb?locale.x=es_XC) - Thank you very much for your contribution.

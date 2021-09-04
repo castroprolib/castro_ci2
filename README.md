@@ -7,7 +7,7 @@ _These instructions will allow you to get a copy of the project running on your 
 
 ### Pre-requirements 📋
 
-_Server apache, php 5.6 >=, mysql_
+_Server apache, php 5.1.6 >=, mysql_
 
 ## Technologies 🛠️
 
